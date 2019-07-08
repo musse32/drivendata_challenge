@@ -1,4 +1,4 @@
-# drivendata_challenge
+# drivendata_challenge_Predict Faulty Water Pumps
 Predict Faulty Water Pumps in Rural Tanzania
 
 
