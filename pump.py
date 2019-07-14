@@ -119,7 +119,7 @@ X = pd.get_dummies(X, prefix_sep='_', drop_first=True)
 
 ########## SPLIT INTO TRAIN AND TEST ####################
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 
 ##
 ##Begin Decision Tree Classifier
